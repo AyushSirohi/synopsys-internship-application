@@ -1,7 +1,7 @@
 # Synopsys R&D Engineering Internship Application
 
 ## Why I Am a Good Fit
-I am a dedicated and enthusiastic B.Tech IT student (2022–2026) from ABES Engineering College, with strong problem-solving skills and a solid foundation in C, C++, Python, and JavaScript.  
+I am a dedicated and enthusiastic B.Tech IT student (2022–2026) from ABES Engineering College, with strong problem-solving skills and a solid foundation in C, C++, Linux and Python.  
 My academic journey and hands-on project experience have made me proficient in building interactive applications and understanding core computer science concepts, which align with the requirements of the R&D Engineering team.  
 I am a fast learner, highly motivated, and eager to contribute meaningfully to challenging projects in digital design, embedded systems, and software development.
 
