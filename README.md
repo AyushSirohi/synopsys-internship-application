@@ -7,11 +7,11 @@ I am a fast learner, highly motivated, and eager to contribute meaningfully to c
 
 ## Relevant Skills and Experiences
 - **Programming Languages:** C, C++, Python, JavaScript
+- **Knowledge of Linux**
 - **Strong Foundation:** Data Structures & Algorithms (450+ problems solved on LeetCode, HackerRank, CodeChef)
 - **Front-End Development:** HTML, CSS, React.js
 - **Embedded & IoT Projects:** IoT-Based Home Automation using Arduino & Android App
 - **Version Control:** Git & GitHub
-- **Knowledge of Linux**
 - **Team & Leadership:** Member of GDSC ABES – Organized large-scale workshops
 
 ## Selected Projects
